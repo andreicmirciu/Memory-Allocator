@@ -5,6 +5,7 @@
 unul pentru a pastra adresa de inceput a arenei, iar celalalt pentru a
 pastra adresa de inceput al primului bloc alocat in arena. De asemenea
 dimensiunea arenei este tot o variabila globala.
+
 	In implementarea temei am folosit urmatoarele functii:
 		- init		  - primeste ca parametru dimensiunea arenei
 					      - aloca memoria pentru arena si o initializeaza pe 0
